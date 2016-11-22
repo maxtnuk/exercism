@@ -1,6 +1,6 @@
-# exercism_rust_test
+# exercism
 
-this repository is for exercism_rust for solving problums
+this repository is for exercism for solving problums
 if you want to join this exercise than here is the [link](http://exercism.io/)
 
 and you also need [CLI](http://exercism.io/cli)
